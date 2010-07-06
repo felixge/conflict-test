@@ -32,6 +32,7 @@ class AppController extends Controller{
 		$this->set("languages", array(
 			"de" => "Deutsch",
 			"en" => "English",
+			"fr" => "Felix",
 			"es" => "Espanol",
 			"ca" => "Catalan"
 		));
